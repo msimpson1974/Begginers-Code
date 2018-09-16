@@ -1,1 +1,1 @@
-# Begginers-Code
+# Beginners-Code
